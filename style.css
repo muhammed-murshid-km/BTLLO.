@@ -1,0 +1,86 @@
+*{
+    margin: 0PX;
+    padding: 0PX;
+}
+.hello{
+    position: fixed !important;
+    width: 100%;
+    z-index: 1;
+    background-color: white;
+}
+.hss{
+    background-image: url(cov1.jpg);
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+}
+.bc{
+    background: linear-gradient(to top,rgba(0, 221, 255, 0.509),rgba(0, 0, 255, 0.495));
+    height: 100%;
+}
+
+.uhh i{
+    font-size: 50px;
+    padding: 10px;
+    border-radius:150px;
+    background:linear-gradient(to right, #00e0fe, #1107fe);
+    color:white;
+    position: relative;
+    top: -15px;
+}
+.jss{
+    background-image: url(cov5.jpg);
+    height: 100%;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+}
+.bcc i{
+    font-size:50px;
+  
+
+}
+.byy{
+    background: linear-gradient(to top,rgba(0, 221, 255, 0.509),rgba(0, 0, 255, 0.495)); 
+    height: 100%;
+} 
+.trr i{
+    font-size: 70px;
+    color:rgb(0, 94, 255);
+}
+section{
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+}
+.gff i{
+    font-size: 45px;
+}
+.gff span{
+    font-size: 55px;
+}
+.rgg{
+    background: linear-gradient(to top,rgba(0, 221, 255, 0.509),rgba(0, 0, 255, 0.495)); 
+    height: 100%;
+}
+.ratings i{
+    color:orange;
+}
+.juu{
+    background-image: url(cov5.jpg);
+    height: 100%;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+}
+
+.ne{
+    background:linear-gradient(to right, #00e0fe, #1107fe );
+    padding: 30px;
+}
+
